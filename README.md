@@ -48,7 +48,7 @@ We are hoping AdamAI to be fully equiped with following feature in future:
 ## 💸 Donate
 If you believe we are doing something useful you can contribute to our project, kindly [contact us](mailto:salam@iAdam.ai)!
 
-## 😇 Sharing Tarteel
+## 😇 Sharing
 If you believe in our effort, feel free to share this project on to your social media. Sharinng something useful is Sadaqah jaariyah. May ALLAH accept it. 
 
 ## License
