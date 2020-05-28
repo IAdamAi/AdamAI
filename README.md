@@ -9,24 +9,35 @@
 ## 👋 Intro
 [![Build Status](https://travis-ci.com/IAdamAi/AdamAI.svg?token=SzVqcxEhtJezzefm5yC1&branch=master)](https://travis-ci.com/IAdamAi/AdamAI)
 
-This repisotory contains main backend of Adam AI. Currently it has a Nodejs API which is deployed on Heroku. This API will be used as backend for all the social media faces of Adam AI. There is a [telegram bot](https://github.com/IAdamAi/AdamAI_telegram) in other repository which uses this API to send responses.
+This repository contains main backend of Adam AI. Currently it has a Nodejs API which is deployed on Heroku. This API will be used as backend for all the social media faces of Adam AI. There is a [telegram bot](https://github.com/IAdamAi/AdamAI_telegram) in other repository which uses this API to send responses.
 
-## 🔨 Built With
+## Motivation
 
-[Node Js](https://nodejs.org/en/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+As you know machine learning has proven its importance in many fields, like computer vision, NLP, reinforcement learning, adversarial learning, etc .. Unfortunately, there is a little work to make machine learning accessible for support the Dawah and muslims community tools and services.
+
+## Goal 
+
+To build a smart chatbot textural that expert communicate to introduce islam, and all topics about islam with friendly and passion language speak English.
+
+## Challenges
+
+Issues of Islam topics are open domain and unlimited in scope. The expressive cultures differ from the spirit of Islam and the challenges of those who want to convert to Islam in the Philippines are different from Nigeria and also different from other cultures and ideas in London or New York, for this we need to develop an algorithm with convergence and understanding of the local culture of the speaking person.
+
+## Procedure 
+
+Our procedure is generalized and can be generalized to many dataset act models not only our input . This standrized approach takes part as multiple steps starting from training on cloud using Rasa open- source ML then porting the models to the other channels.
+
+## Models
+
+we use Rasa X Open-source
+
+## Datasets
+
+[https://github.com/pandorabots/rosie](https://github.com/pandorabots/rosie)
 
 ## 🔧 Getting started
 To start developing, You should setup this project locally. We require this to avoid submitting untested code. Soon we will have our staging server as well so it will add one more layer of testing.
 
-#### Installation
-
-It requires [Node.js](https://nodejs.org/)  to run. Install it from the link and then in order to set it up locally follow below steps:
-
-```sh
-$ cd AdamAI
-$ npm install
-$ node app.js
-```
 
 ## 🔨 Contributing
 If you want to start contributing to any of the Adam AI projects, please create an issue explainig. In the meantime, feel free to pick up any of the open issues and assign it to yourself or create a PR for any bugs you encounter.
