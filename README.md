@@ -11,7 +11,7 @@
 
 This repisotory contains main backend of Adam AI. Currently it has a Nodejs API which is deployed on Heroku. This API will be used as backend for all the social media faces of Adam AI. There is a [telegram bot](https://github.com/IAdamAi/AdamAI_telegram) in other repository which uses this API to send responses.
 
-## 🔧 Built With
+## 🔨 Built With
 
 [Node Js](https://nodejs.org/en/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
