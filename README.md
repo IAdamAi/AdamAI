@@ -2,14 +2,14 @@
   <h1 align='center'>Adam AI</h1>
   <p align='center'><img width='150' src='https://avatars1.githubusercontent.com/u/65319513?s=400&u=79dde67010bebec9093b504af779fc28d5c285ac&v=4' /></p>  
   <p align='center'>
-    AdamAI is a chatbot to introduce people to Islam. Our main motive is to make this a software preacher to preach Islam. People who'd like to get information about Islam will be able to talk to Adam AI to receive different teachings via bot speech and text. 
+    AdamAI is a chatbot to introduce people to Islam. Our main scope is to build a behavioral bot to encourage positive perceptions about Islam. People who'd like to get to know about Islam will be able to talk to Adam AI and have friendly conversations via bot speech and text.
   </p>
 </p>
  
 ## 👋 Intro
 [![Build Status](https://travis-ci.com/IAdamAi/AdamAI.svg?token=SzVqcxEhtJezzefm5yC1&branch=master)](https://travis-ci.com/IAdamAi/AdamAI)
 
-This repository contains main backend of Adam AI. Currently it has a Nodejs API which is deployed on Heroku. This API will be used as backend for all the social media faces of Adam AI. There is a [telegram bot](https://github.com/IAdamAi/AdamAI_telegram) in other repository which uses this API to send responses.
+This repository contains main backend of Adam AI. Currently it has a Python API which is deployed on Heroku. This API will be used as backend for all the social media faces of Adam AI. There is a telegram bot in other repository which uses this API to send responses. [telegram bot](https://github.com/IAdamAi/AdamAI_telegram) 
 
 ## Motivation
 
