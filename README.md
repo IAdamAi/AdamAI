@@ -13,15 +13,15 @@ This repository contains main backend of Adam AI. Currently it has a Python API 
 
 ## Motivation
 
-As you know machine learning has proven its importance in many fields, like computer vision, NLP, reinforcement learning, adversarial learning, etc .. Unfortunately, there is a little work to make machine learning accessible for support the Dawah and muslims community tools and services.
+As you know machine learning has proven its importance in many fields, like computer vision, NLP, reinforcement learning, adversarial learning, etc .. Unfortunately, there are almost non-existent projects that utilizes ML and AI to support Islam and help spread the correct teachings. We wanted to present something that benefits from current technology to spread the beautiful and positive aspects of Islam. Islam is not only about religion or wrong and rights, Islam is a humble lifestyle and when understood correctly it’s a meaningful teacher for humankind and the planet as a whole. 
 
 ## Goal 
 
-To build a smart chatbot textural that expert communicate to introduce islam, and all topics about islam with friendly and passion language speak English.
+To build an intelligent conversational chatbot that communicates naturally with its users to introduce islam and its different aspects with a friendly tone. 
 
 ## Challenges
 
-Issues of Islam topics are open domain and unlimited in scope. The expressive cultures differ from the spirit of Islam and the challenges of those who want to convert to Islam in the Philippines are different from Nigeria and also different from other cultures and ideas in London or New York, for this we need to develop an algorithm with convergence and understanding of the local culture of the speaking person.
+Islam’s wide variety of topics and categories are open domain and unlimited in scope. As well as the approach of cultures differ and so the challenge raises because of the huge variety. It is not a mere service or a single topic to assign. Another challenge is the different ways people perceive spiritual or deep conversations. For example a person who is interested to learn about Islam in the in the Philippines is different from another in Nigeria, and different from Mosco or New York, for this we need to develop an algorithm with convergence and understanding of the local culture of the speaking person.
 
 ## Procedure 
 
